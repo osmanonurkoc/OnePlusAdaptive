@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="oneplus_camera_background">#E5E5E5</color>
+    <color name="oneplus_contacts_background">#068AFD</color>
+    <color name="oneplus_dialer_background">#068AFD</color>
+    <color name="oneplus_messages_background">#0AB59A</color>
+    <color name="oneplus_settings_background">#BDBDBD</color>
+    <color name="oneplus_stk_background">#D4DCE0</color>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <category title="OnePlus" />
+    <item drawable="oneplus_calculator" />
+    <item drawable="oneplus_calendar" />
+    <item drawable="oneplus_camera" />
+    <item drawable="oneplus_clock" />
+    <item drawable="oneplus_contacts" />
+    <item drawable="oneplus_dialer" />
+    <item drawable="oneplus_files" />
+    <item drawable="oneplus_gallery" />
+    <item drawable="oneplus_messages" />
+    <item drawable="oneplus_music" />
+    <item drawable="oneplus_notes" />
+    <item drawable="oneplus_recorder" />
+    <item drawable="oneplus_settings" />
+    <item drawable="oneplus_stk" />
+</resources>
